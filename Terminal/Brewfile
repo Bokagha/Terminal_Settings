@@ -1,13 +1,17 @@
 cmatrix
 fping
 gdbm
+gettext
 git
 icu4c
+libidn2
+libunistring
 libyaml
 micro
 nmap
 node
 openssl
+pcre2
 python
 python3
 readline
@@ -16,5 +20,6 @@ screenfetch
 sl
 sqlite
 telnet
+wget
 xz
 youtube-dl
