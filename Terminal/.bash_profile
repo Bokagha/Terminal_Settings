@@ -52,6 +52,9 @@
 	# Opens current directory in MacOS Finder
 	alias finder='open -a Finder ./'
 
+	# Metasploit Alias
+	alias metasploit='/opt/metasploit-framework/bin/msfconsole'
+
 #   -----------------------------
 #   3. SCRIPT ALIASES
 #   -----------------------------
