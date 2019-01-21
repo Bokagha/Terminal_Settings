@@ -1,3 +1,4 @@
+autoconf
 cmatrix
 fping
 gdbm
@@ -8,14 +9,18 @@ libidn2
 libunistring
 libyaml
 micro
+nativefier
 nmap
 node
 openssl
 pcre2
+pkg-config
 python
 python3
+rbenv
 readline
 ruby
+ruby-build
 screenfetch
 sl
 sqlite
