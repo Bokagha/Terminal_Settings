@@ -24,6 +24,11 @@
 
 	export EDITOR=/usr/bin/nano
 
+#   Set Default Ruby Path
+#   ------------------------------------------------------------
+
+	export PATH=/usr/local/opt/ruby/bin:$PATH
+
 #   -----------------------------
 #   2. GENERAL ALIASES
 #   -----------------------------
