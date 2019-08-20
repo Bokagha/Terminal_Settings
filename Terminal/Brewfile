@@ -1,5 +1,7 @@
 autoconf
 cmatrix
+coreutils
+cowsay
 fping
 gdbm
 gettext
@@ -16,6 +18,7 @@ node
 openssl
 pcre2
 pkg-config
+pokemonsay
 python
 python3
 rbenv
