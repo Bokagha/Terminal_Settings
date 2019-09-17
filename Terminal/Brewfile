@@ -10,12 +10,14 @@ github-markdown-toc
 icu4c
 libidn2
 libunistring
+libxml2
 libyaml
 micro
 nativefier
 nmap
 node
 openssl
+openssl@1.1
 pcre2
 pkg-config
 pokemonsay
