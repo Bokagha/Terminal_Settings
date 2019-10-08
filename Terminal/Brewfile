@@ -14,10 +14,12 @@ libxml2
 libyaml
 micro
 nativefier
+ncurses
 nmap
 node
 openssl
 openssl@1.1
+pcre
 pcre2
 pkg-config
 pokemonsay
@@ -34,3 +36,4 @@ telnet
 wget
 xz
 youtube-dl
+zsh
