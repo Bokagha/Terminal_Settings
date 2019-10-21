@@ -127,3 +127,6 @@ alias hidden-toggle="~/Documents/Scripts/Toggle_Hidden.sh"
 alias clean="~/Documents/Scripts/Clean_Desktop.sh"
 #Automates Homebrew updates, dependancies, cleanup, and doctor
 alias homebrew-all-in-one="~/Documents/Scripts/Homebrew_All_In_One.sh"
+
+#Homebrew sbin PATH
+export PATH="/usr/local/sbin:$PATH"
