@@ -2,6 +2,7 @@ autoconf
 cmatrix
 coreutils
 cowsay
+ddgr
 fping
 gdbm
 gettext
@@ -15,6 +16,7 @@ libyaml
 micro
 nativefier
 ncurses
+nethack
 nmap
 node
 openssl
