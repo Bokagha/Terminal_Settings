@@ -1,4 +1,5 @@
 autoconf
+balena-cli
 cmatrix
 coreutils
 cowsay
