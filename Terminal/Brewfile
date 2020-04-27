@@ -8,6 +8,7 @@ fping
 gdbm
 gettext
 git
+git-lfs
 github-markdown-toc
 icu4c
 jq
