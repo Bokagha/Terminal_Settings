@@ -13,7 +13,9 @@ git-lfs
 github-markdown-toc
 icu4c
 jq
+libevent
 libidn2
+libscrypt
 libunistring
 libxml2
 libyaml
@@ -24,7 +26,6 @@ nethack
 nmap
 node
 oniguruma
-openssl
 openssl@1.1
 pcre
 pcre2
@@ -41,6 +42,7 @@ screenfetch
 sl
 sqlite
 telnet
+tor
 wget
 xz
 youtube-dl
