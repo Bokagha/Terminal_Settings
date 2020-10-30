@@ -1,6 +1,7 @@
 autoconf
 balena-cli
 cmatrix
+cordless
 coreutils
 cowsay
 ddgr
@@ -11,6 +12,7 @@ gh
 git
 git-lfs
 github-markdown-toc
+go
 icu4c
 jq
 libevent
@@ -30,10 +32,12 @@ openssl@1.1
 pcre
 pcre2
 pkg-config
+pngpaste
 pokemonsay
 python
 python3
 python@3.8
+python@3.9
 rbenv
 readline
 ruby
