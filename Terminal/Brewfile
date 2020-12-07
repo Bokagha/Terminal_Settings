@@ -47,6 +47,7 @@ sl
 sqlite
 telnet
 tor
+transmission-cli
 wget
 xz
 youtube-dl
