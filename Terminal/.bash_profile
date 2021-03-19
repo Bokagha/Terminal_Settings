@@ -76,3 +76,4 @@
 
 	#Automates Homebrew updates, dependancies, cleanup, and doctor
 	alias homebrew-all-in-one="~/Documents/Scripts/Homebrew_All_In_One.sh"
+export PATH="/usr/local/opt/ruby/bin:$PATH"
