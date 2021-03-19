@@ -22,6 +22,7 @@ libunistring
 libxml2
 libyaml
 micro
+mpdecimal
 nativefier
 ncurses
 nethack
@@ -45,6 +46,7 @@ ruby-build
 screenfetch
 sl
 sqlite
+tcl-tk
 telnet
 tor
 transmission-cli
